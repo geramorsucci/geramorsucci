@@ -17,7 +17,7 @@ Soy un analista de datos de 23 años con más de 3 años de experiencia en la in
 ## ❓ ¿Qué hago?  
 
 - 🔭 Actualmente, estoy trabajando en proyectos como: [Dream_Team_Knicks](https://github.com/geramorsucci/Dream_team_knicks_analysis)  
-- 🌱 También estoy ampliando mis conocimientos en **AWS** para fortalecer mis competencias en entornos de bases de datos en la nube, y mejorando mi nivel de inglés (B1).  
+- 🌱 También estoy ampliando mis conocimientos en **AWS** para fortalecer mis competencias en entornos de bases de datos en la nube, y mejorando mi nivel de inglés (B2 - intermediate).  
 - 🎓 Experiencia en herramientas como **Python, Scikit-Learn, XGBoost, Pandas, NumPy, Seaborn, SQL Server, Power BI, y Google Sheets** para análisis de datos y visualización.  
 - 🧠 Apasionado por optimizar flujos de trabajo y modelos de datos, combinando habilidades técnicas y pedagógicas para ofrecer soluciones efectivas en entornos multidisciplinarios.
 - 💬 Me interesa colaborar en proyectos de análisis de datos que generen impacto real y mejoren la toma de decisiones basada en datos.
