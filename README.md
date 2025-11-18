@@ -51,22 +51,6 @@ I create scalable processes and data-driven campaigns that improve conversion, r
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="100" height="100"/> 
   </a>
     
-    <a href="https://www.salesforce.com" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="100" height="100"/> 
-    </a>
-    
-    <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
-      <img src="https://profilinator.rishav.dev/skills-assets/zapier.svg" alt="Zapier" width="100" height="100"/> 
-    </a>
-    
-    <a href="https://analytics.google.com" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" alt="Google Analytics" width="100" height="100"/> 
-    </a>
-    
-    <a href="https://mailchimp.com" target="_blank" rel="noreferrer"> 
-      <img src="https://profilinator.rishav.dev/skills-assets/mailchimp.svg" alt="Mailchimp" width="100" height="100"/> 
-    </a>
-    
 </div>
 
 ## 💌 Contact me!
